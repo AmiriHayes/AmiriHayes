@@ -34,7 +34,7 @@ I...
 <!--XXX-->
 1. 🌱 amirihayes1@gmail.com 🌱
 2. 🌱 https://www.linkedin.com/in/amirihayes/ 🌱
-3. 🌱 website: XXX 🌱
+3. 🌱 website: https://amirihayes.github.io/YearOfTheSenior/ 🌱
 <!--END_SECTION:activity-->
 
 </details>
