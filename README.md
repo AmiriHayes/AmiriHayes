@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Amiri 
 
-Learn more about me here: https://amirihayes.github.io/YearOfTheSenior/
+Website: https://amirihayes.github.io/YearOfTheSenior/
 
-### My Interests
-- Data Processing & Analytics
-- Machine Learning
-- Full Stack Development
+**Interests**: Data Processing & Analytics, Machine Learning, Full Stack Development
 
 ### My Languages
-
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height=26/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height=26/> 
