@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amiri 
+# Hi, I'm Amiri &nbsp; <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 I...
 - am interested in Data Processing & Analytics, Machine Learning, Full Stack Development
@@ -17,14 +17,24 @@ I...
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height=26/>  
 </p>
 
+
 ---
 
-<details>
-  <summary>:zap: Reach me at: </summary>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<!--XXX-->
-1. 🌱 amirihayes1@gmail.com 🌱
-2. 🌱 www.linkedin.com/in/amirihayes/ 🌱
-<!--END_SECTION:activity-->
+
+To reach me! :zap:
+  <br>
+  1. 🌱 amirihayes1@gmail.com 🌱<br>
+  2. 🌱 www.linkedin.com/in/amirihayes/ 🌱
+
+
+<br />
+
+<details>
+  <summary>Before you leave see: </summary>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www.amirihayes.com <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; & have a good day! 
 
 </details>
