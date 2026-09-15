@@ -1,3 +1,4 @@
+<!--
 # Hi, I'm Amiri &nbsp; <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 I...
@@ -38,3 +39,4 @@ To reach me! :zap:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; & have a good day! 
 
 </details>
+-->
