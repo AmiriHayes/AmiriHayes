@@ -1,3 +1,5 @@
+Removed from profile, change file back to md to return:
+
 <!--
 # Hi, I'm Amiri &nbsp; <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
